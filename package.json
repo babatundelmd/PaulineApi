@@ -1,0 +1,11 @@
+{
+  "name": "pauline-api",
+  "version": "1.0.0",
+  "description": "Endpoint to get all Apostle Paul's Prayers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Babatunde Lamidi",
+  "license": "ISC"
+}
