@@ -141,6 +141,77 @@ const pauline_prayers = [
 
                 7 And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.`
             }
+        },
+        Colossians: {
+            Chapter_1: {
+                Verses: "9-11",
+                Text: `9 For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;
+
+                10 That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God;
+
+                11 Strengthened with all might, according to his glorious power, unto all patience and longsuffering with joyfulness;`
+            },
+            Chapter_4: {
+                Verses: "2-4",
+                Text: `2 Continue in prayer, and watch in the same with thanksgiving;
+
+                3 Withal praying also for us, that God would open unto us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:
+
+                4 That I may make it manifest, as I ought to speak.`
+            }
+        },
+        _1Thessalonians: {
+            Chapter_1: {
+                Verses: "2-3",
+                Text: `2 We give thanks to God always for you all, making mention of you in our prayers;
+
+                3 Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;`
+            },
+            Chapter_3: {
+                Verses: "9-13",
+                Text: `9 For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;
+
+                10 Night and day praying exceedingly that we might see your face, and might perfect that which is lacking in your faith?
+
+                11 Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you.
+
+                12 And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:
+
+                13 To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints.`
+            },
+            _2Thessalonians: {
+                Chapter_1: {
+                    Verses: "11-12",
+                    Text: `11 Wherefore also we pray always for you, that our God would count you worthy of this calling, and fulfil all the good pleasure of his goodness, and the work of faith with power:
+
+                    12 That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.`
+                },
+                Chapter_2: {
+                    Verses: "16-17",
+                    Text: `16 Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and good hope through grace,
+
+                    17 Comfort your hearts, and stablish you in every good word and work.`
+                },
+                Chapter_3: {
+                    Verses: "1-5",
+                    Text: `1 Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified, even as it is with you:
+
+                    2 And that we may be delivered from unreasonable and wicked men: for all men have not faith.
+
+                    3 But the Lord is faithful, who shall stablish you, and keep you from evil.
+
+                    4 And we have confidence in the Lord touching you, that ye both do and will do the things which we command you.
+
+                    5 And the Lord direct your hearts into the love of God, and into the patient waiting for Christ.`
+                },
+
+                Chapter_3: {
+                    Verse: 16,
+                    Text: `16 Now the Lord of peace himself give you peace always by all means. The Lord be with you all.`
+                }
+            }
+
+
         }
 
 
