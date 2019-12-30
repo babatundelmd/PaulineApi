@@ -115,6 +115,32 @@ const pauline_prayers = [
 
                 20 For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak.`
             }
+        },
+        Philippians: {
+            Chapter_1: {
+                Verses: "3-6",
+                Text: `3 I thank my God upon every remembrance of you,
+
+                4 Always in every prayer of mine for you all making request with joy,
+
+                5 For your fellowship in the gospel from the first day until now;
+
+                6 Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:`
+            },
+            Chapter_1: {
+                Verses: "9-11",
+                Text: `9 And this I pray, that your love may abound yet more and more in knowledge and in all judgment;
+
+                10 That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ.
+
+                11 Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God.`
+            },
+            Chapter_4: {
+                Verses: "6-7",
+                Text: `6 Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.
+
+                7 And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.`
+            }
         }
 
 
