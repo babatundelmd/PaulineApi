@@ -209,6 +209,37 @@ const pauline_prayers = [
                     Verse: 16,
                     Text: `16 Now the Lord of peace himself give you peace always by all means. The Lord be with you all.`
                 }
+            },
+
+            _1Timothy: {
+                Chapter_2: {
+                    Verses: "1-3",
+                    Text: `I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;
+
+                    2 For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.
+
+                    3 For this is good and acceptable in the sight of God our Saviour;`
+                }
+            },
+            _2Timothy: {
+                Chapter_1: {
+                    Verses: "16-18",
+                    Text: `16 The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain:
+
+                    17 But, when he was in Rome, he sought me out very diligently, and found me.
+
+                    18 The Lord grant unto him that he may find mercy of the Lord in that day: and in how many things he ministered unto me at Ephesus, thou knowest very well.`
+                }
+            },
+            Philemon: {
+                Chapter_1: {
+                    Verse: "4-6",
+                    Text: `4 I thank my God, making mention of thee always in my prayers,
+
+                    5 Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;
+
+                    6 That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.`
+                }
             }
 
 
