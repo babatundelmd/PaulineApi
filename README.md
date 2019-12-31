@@ -1,6 +1,7 @@
-# PAULINE PRAYERS
+# Pauline Prayers
 1 Thessalonians 5:17 - Pray without ceasing.
-As believers the scriptures urges us to pray without ceasing. What better way to heed to this instruction than praying Scripturally. Apostle Paul by the mercies of God has shown us the way.
+
+As believers the Scriptures urges us to pray without ceasing. What better way to heed to this instruction than praying Scripturally. Apostle Paul by the mercies of God has shown us the way.
 
 # API Documentation
 The Api Endpoints are hosted on Firebase
