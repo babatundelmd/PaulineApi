@@ -6,7 +6,7 @@ As believers the Scriptures urges us to pray without ceasing. What better way to
 # API Documentation
 The Api Endpoints are hosted on Firebase
 
-# Allowed HTTPs rquests
+# Allowed HTTPs Requests
 GET: Get all Pauline Prayers
 
 # GET All Pauline Prayers
